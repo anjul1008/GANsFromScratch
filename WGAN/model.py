@@ -3,8 +3,6 @@ Discriminator and Generator implementation from DCGAN paper,
 with removed Sigmoid() as output from Discriminator (and therefor
 it should be called critic)
 """
-__anthor__ = 'Anjul Rajendra Sharma'
-
 
 import torch
 import torch.nn as nn

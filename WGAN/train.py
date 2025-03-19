@@ -1,5 +1,6 @@
-
-__anthor__ = 'Anjul Rajendra Sharma'
+"""
+Training of DCGAN network with WGAN loss
+"""
 
 import torch
 import torch.nn as nn
